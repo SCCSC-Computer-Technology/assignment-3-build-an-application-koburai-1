@@ -1,0 +1,13 @@
+C:\Users\kuwin\OneDrive - Spartanburg Community College\Spring 2025\Adv Programming\A Waddell Lab 3\bin\Debug\StatesDB.mdf
+C:\Users\kuwin\OneDrive - Spartanburg Community College\Spring 2025\Adv Programming\A Waddell Lab 3\bin\Debug\StatesDB_log.ldf
+C:\Users\kuwin\OneDrive - Spartanburg Community College\Spring 2025\Adv Programming\A Waddell Lab 3\bin\Debug\A Waddell Lab 3.exe.config
+C:\Users\kuwin\OneDrive - Spartanburg Community College\Spring 2025\Adv Programming\A Waddell Lab 3\bin\Debug\A Waddell Lab 3.exe
+C:\Users\kuwin\OneDrive - Spartanburg Community College\Spring 2025\Adv Programming\A Waddell Lab 3\bin\Debug\A Waddell Lab 3.pdb
+C:\Users\kuwin\OneDrive - Spartanburg Community College\Spring 2025\Adv Programming\A Waddell Lab 3\obj\Debug\A Waddell Lab 3.csproj.AssemblyReference.cache
+C:\Users\kuwin\OneDrive - Spartanburg Community College\Spring 2025\Adv Programming\A Waddell Lab 3\obj\Debug\A_Waddell_Lab_3.Properties.Resources.resources
+C:\Users\kuwin\OneDrive - Spartanburg Community College\Spring 2025\Adv Programming\A Waddell Lab 3\obj\Debug\A Waddell Lab 3.csproj.GenerateResource.cache
+C:\Users\kuwin\OneDrive - Spartanburg Community College\Spring 2025\Adv Programming\A Waddell Lab 3\obj\Debug\A Waddell Lab 3.csproj.CoreCompileInputs.cache
+C:\Users\kuwin\OneDrive - Spartanburg Community College\Spring 2025\Adv Programming\A Waddell Lab 3\obj\Debug\A Waddell Lab 3.exe
+C:\Users\kuwin\OneDrive - Spartanburg Community College\Spring 2025\Adv Programming\A Waddell Lab 3\obj\Debug\A Waddell Lab 3.pdb
+C:\Users\kuwin\OneDrive - Spartanburg Community College\Spring 2025\Adv Programming\A Waddell Lab 3\obj\Debug\A_Waddell_Lab_3.Details.resources
+C:\Users\kuwin\OneDrive - Spartanburg Community College\Spring 2025\Adv Programming\A Waddell Lab 3\obj\Debug\A_Waddell_Lab_3.Main.resources
